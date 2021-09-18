@@ -11,8 +11,6 @@ pids
 *.pid
 *.seed
 
-# Env
-.env
 
 # Miscellaneous
 .tmp/
